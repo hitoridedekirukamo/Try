@@ -8,3 +8,17 @@
 Bob First Write
 Bob First Write
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALICE WRITE    BOBが修正保存済→BOBコミット前にALICEの修正コミットをBOBに渡したらどうなるかの確認
