@@ -13,7 +13,7 @@ BOB WRITE 保存→コミット前にALICEの変更がきてプルした時の�
 
 
 
-
+git status確認ように修正
 
 
 
