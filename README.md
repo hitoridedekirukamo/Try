@@ -9,3 +9,17 @@ Bob First Write
 Bob First Write
 
 BOB WRITE 保存→コミット前にALICEの変更がきてプルした時の動作を確認する
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALICE WRITE    BOBが修正保存済→BOBコミット前にALICEの修正コミットをBOBに渡したらどうなるかの確認
