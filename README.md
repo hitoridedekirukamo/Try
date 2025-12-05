@@ -23,3 +23,8 @@ git status確認ように修正
 
 
 ALICE WRITE    BOBが修正保存済→BOBコミット前にALICEの修正コミットをBOBに渡したらどうなるかの確認
+
+
+
+
+mainブランチ修正
