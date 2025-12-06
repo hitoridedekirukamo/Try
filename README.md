@@ -13,7 +13,7 @@ BOB WRITE 保存→コミット前にALICEの変更がきてプルした時の�
 
 
 
-git status確認ように修正
+git status確認ように”黄色を確認したい。”修正
 
 
 
